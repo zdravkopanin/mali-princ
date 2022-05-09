@@ -1,0 +1,32 @@
+h1{
+    background-color: bisque;
+    border-bottom: solid 1px red;
+    padding: 10px;
+    color: #D26565;
+    text-shadow: 2px 2px 5px gray;
+    }
+body{
+    background-color: beige;
+}
+h2{
+    width: 250px;
+    font-family: sans-serif;
+    color: rgb(123, 56, 56);
+    padding: 5px;
+    border-bottom: solid 3px darkred;
+}
+p{
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 30px;
+}
+#potpis{
+    text-align: right;
+    font-weight: bolder;
+}
+.okvir{
+    background-color: lightblue;
+    border-radius: 10px;
+    border: solid 1px;
+    padding: 10px;
+}
